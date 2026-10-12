@@ -1,6 +1,4 @@
 ## Hi there 👋
 
-<p align="center>
-  # <span style="color:#ff0033">DanyaYulashev/Student Page</span>
-</p>
+<h1 align="center"><font color="#ff0033">DanyaYulashev/Student Page</font></h1>
 
