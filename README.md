@@ -10,3 +10,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
+
+<p align="center">
+  <a href="https://t.me/DanyaYul">
+    <img src="https://img.shields.io/badge/Telegram-0a0014?style=for-the-badge&logo=telegram&logoColor=ff0033" alt="Telegram"/>
+  </a>
+</p>
