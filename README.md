@@ -12,6 +12,15 @@
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
+<br />
+<hr />
+<br />
+
+<p align="center">
+  <img src="assets/github_tetris.gif" alt="Тетрис из коммитов" width="100%" />
+</p>
+
+
 <hr/><br/>
 
 <p align="center">
