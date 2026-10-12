@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/tetris.gif" alt="Тетрис из коммитов" width="100%" />
+  <img src="assets/tetris.gif" alt="Тетрис из коммитов" />
 </p>
 
 
